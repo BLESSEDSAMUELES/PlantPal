@@ -4,10 +4,7 @@
 
 [**🟢 LIVE DEMO: https://plant-pal-ivory.vercel.app/**](https://plant-pal-ivory.vercel.app/)
 
-![PlantPal Dashboard](https://placehold.co/1200x600/e8f5e9/2e7d32?text=Add+Your+Dashboard+Screenshot+Here)
-*(Note: Replace the image link above with a real screenshot of your dashboard!)*
 
----
 
 ## 📖 About
 
