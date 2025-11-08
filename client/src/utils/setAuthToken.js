@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Set the base URL for all Axios requests
-axios.defaults.baseURL = 'http://localhost:5000'; // Your backend
+axios.defaults.baseURL = 'https://plantpal-ehxy.onrender.com/'; // Your backend
 
 const setAuthToken = (token) => {
     if (token) {

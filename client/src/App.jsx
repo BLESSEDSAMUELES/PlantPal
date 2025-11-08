@@ -23,7 +23,7 @@ function AppContent() {
   useEffect(() => {
     if (auth.isAuthenticated && auth.user) {
       // Connect to backend socket
-      const newSocket = io('http://localhost:5000');
+      const newSocket = io('https://plantpal-ehxy.onrender.com/');
 
       // Join private room based on user ID
       newSocket.emit('join_room', auth.user._id);
