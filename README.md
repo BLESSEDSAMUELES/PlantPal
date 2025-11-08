@@ -1,6 +1,8 @@
 # PlantPal 🪴
 
 ### Your AI-powered companion for plant care. Identify, check health, and manage your digital garden—all in real-time.
+### New User use Sign up to create a account 
+### Evaluators use the email id: blessedsam40@gmail.com && password: Blessed@1 for the admin dashboard
 
 [**🟢 LIVE DEMO: https://plant-pal-ivory.vercel.app/**](https://plant-pal-ivory.vercel.app/)
 
